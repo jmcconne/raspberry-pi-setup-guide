@@ -4,7 +4,7 @@ This guide will walk you through setting up your Raspberry Pi with pyenv for man
 
 ## Prerequisites
 
-- A Raspberry Pi with Raspberry Pi OS installed
+- A Raspberry Pi with Raspberry Pi OS (64-bit) installed
 - Internet connection
 - Terminal access
 
